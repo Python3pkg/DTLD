@@ -7,6 +7,7 @@ How it works
 DTLD extracts the root domain. It works by extracting from http|https|www protocol URLS
 
 Example Code:
+
  from DTLD.dtld.main import TopLevelDomain as tld
  url = 'http://github.com'
  App = tld.TopLevelDomain(url)

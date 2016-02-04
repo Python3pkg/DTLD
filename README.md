@@ -21,7 +21,7 @@ Example Code:
  >>github.com
  
  
- Using a URL such as this https://www.google.com or http://www.somedomain.com will produce an error of an empty string
+
  
  
  

@@ -5,9 +5,9 @@ setup(
     version = "0.1",
     author = "David Dexter",
     author_email = "dmwangimail@gmail.com",
-    description = ("Custome Top level domain extractor "),
+    description = ("Top level domain extractor "),
     license = "GPL v3 or any later version",
-    keywords = "top level domain extractor",
+    keywords = "top level, domain extractor",
     packages= find_packages()
 
 )

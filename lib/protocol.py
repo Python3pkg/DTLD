@@ -12,3 +12,4 @@ class Protocol:
             return False
         else:
             return True
+

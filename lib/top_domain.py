@@ -13,3 +13,4 @@ class TopDomain:
             dm = re.split(prot, self.domain)
             domain = dm[1]
             return domain
+

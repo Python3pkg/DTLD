@@ -9,19 +9,19 @@ DTLD extracts the root domain. It works by extracting from http|https|www protoc
 Example Code:
 
  from dtld.main import TopLevelDomain as tld
- 
- url = 'http://github.com'
- 
- App = tld.TopLevelDomain(url)
- 
- domain = App.get_top_level_domain()
- 
- print(domain)
- 
- >>github.com
- 
- 
 
- 
- 
- 
+ url = 'http://github.com'
+
+ App = tld.TopLevelDomain(url)
+
+ domain = App.get_top_level_domain()
+
+ print(domain)
+
+ >>github.com
+
+
+
+
+
+

@@ -5,6 +5,7 @@ setup(
     version = "0.1",
     author = "David Dexter",
     author_email = "dmwangimail@gmail.com",
+    url = 'https://github.com/daviddexter/DTLD',
     description = ("Custom Top level domain extractor "),
     license = "GPL v3 or any later version",
     keywords = ["top level domain","domain extractor"],

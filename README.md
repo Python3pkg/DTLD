@@ -8,7 +8,7 @@ DTLD extracts the root domain. It works by extracting from http|https|www protoc
 
 Example Code:
 
- from dtld.main import TopLevelDomain as tld
+ from dtld.dtld import TopLevelDomain as tld
 
  url = 'http://github.com'
 
